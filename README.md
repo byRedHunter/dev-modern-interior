@@ -1,4 +1,4 @@
-<h1 align="center">404 Not Found | DevChallenges</h1>
+<h1 align="center">Modern Interior | DevChallenges</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://byredhunter.github.io/dev-404/">
+    <a href="https://byredhunter.github.io/dev-modern-interior/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/SyMliJff4okB8gZehsFT">
+    <a href="https://devchallenges.io/solutions/lNhKJtV9ZpK2ialVQysC">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -24,7 +24,7 @@
 
 ## Overview
 
-![screenshot](https://repository-images.githubusercontent.com/352208451/32019280-8f33-11eb-95de-758668d7ea80)
+![screenshot](https://repository-images.githubusercontent.com/352719265/2672b080-9086-11eb-9581-ab75c40aa44f)
 
 
 ## Contact
